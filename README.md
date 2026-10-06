@@ -14,6 +14,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nitishdotdev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishkumarsingh.cs@gmail.com)
 
+# 🚀 Featured Projects:
+
+🔹 **[StudyKarle](https://github.com/nitishdotdev/StudyKarle)** — A study hub for engineering students to quickly find and access semester-wise notes, assignments, tutorials and PYQs.
+
+🔹 **[ArthaSetu](https://github.com/nitishdotdev/ArthaSetu)** — An AI-powered financial autopilot designed around income volatility, emergency savings and micro-investment planning for gig workers.
+
+🔹 **[CampusMove](https://github.com/nitishdotdev/CampusMove)** — A real-time campus bus tracking platform with student, driver and admin workflows.
+
 # 💻 Tech Stack:
 
 ### Languages
@@ -33,7 +41,7 @@
 ### Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge)
 
 ### Tools & Deployment
